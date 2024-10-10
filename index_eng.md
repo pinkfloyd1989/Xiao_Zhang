@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
   <div>
     <h1 style="margin: 0;">Xiao Zhang</h1>
-    <p style="margin: 0; font-size: 1.2em;">Tenure-Track Assistant Professor, Gaoling School of Artificial Intelligence, Renmin University of China</p>
+    <p style="margin: 0; font-size: 1.2em;">Tenure-Track Associate Professor, Gaoling School of Artificial Intelligence, Renmin University of China</p>
     <p style="margin: 0; font-size: 1.2em;">e-mail：zhangx89@ruc.edu.cn</p>
   </div>
 </div>
@@ -26,7 +26,7 @@
 [Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
-Xiao Zhang is a tenure-track assistant professor at Gaoling School of Artificial Intelligence, Renmin University of China. He was a post-doc researcher at GSAI, Renmin University of China from 2020 to 2022, supervised by Ji-Rong Wen. He received his Ph.D. in College of Intelligence and Computing from Tianjin University, in 2019, supervised by Shizhong Liao. His research interests include online learning, causal learning, information retrieval and model selection. He has published over 20 papers on top-tier conferences and journals in artificial intelligence, e.g., ICML, KDD, SIGIR, AAAI, IJCAI, WWW, CIKM, etc.
+Xiao Zhang is a tenure-track assistant professor at Gaoling School of Artificial Intelligence, Renmin University of China. He was a post-doc researcher at GSAI, Renmin University of China from 2020 to 2022, supervised by Ji-Rong Wen. He received his Ph.D. in College of Intelligence and Computing from Tianjin University, in 2019, supervised by Shizhong Liao. His research interests include online learning, causal learning, information retrieval and model selection. He has published over 40 papers on top-tier conferences and journals in artificial intelligence, e.g., NeurIPS, ICML, KDD, SIGIR, AAAI, IJCAI, WWW, ICDE, etc.
 
 ### RESEARCH INTERESTS
 - *Key Words*: Online learning; Causal learning; Turstworthy machine learning; Information retrieval; Model selection.
