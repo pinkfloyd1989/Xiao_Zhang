@@ -149,3 +149,16 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via i
 Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), 2256–2261, 2018. (**Best Student Paper**)
 
 *: Corresponding author.
+
+
+
+### Major Awards
+- August 2024: VLDB 2024 Best Paper Nominee
+- July 2024: SIGIR 2024 Best Short Paper Nominee
+- November 2023: SIGIR-AP 2023 Best Paper Award
+- April 2023: WWW 2023 Best Paper Nominee
+- November 2018: Best Paper Award at ICPR 2018 
+- August 2017: Best Paper Nominee at CCFAI 2017
+- May 2016: Best Paper Award at CCDM 2016
+- November 2011: First Prize in the National College Student Mathematical Contest in Modeling
+- November 2010: First Prize in the National College Student Mathematical Contest in Modeling
