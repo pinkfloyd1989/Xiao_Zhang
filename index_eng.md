@@ -34,7 +34,8 @@ Xiao Zhang is a tenure-track Associate professor at Gaoling School of Artificial
 - *Research Interests*: Dr. Xiao Zhang's group focuses on developing accountable, controllable and efficient machine learning theory and learning algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning and large models. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
 
 ### WORK EXPERIENCE
-- 2022-present, Renmin University of China, Assistant Professor.
+- 2024-present, Renmin University of China, Associate Professor.
+- 2022-2024, Renmin University of China, Assistant Professor.
 - 2020-2022, Renmin University of China, Postdoctoral Researcher. Supervisor: Prof. Ji-Rong Wen.
 
 ### EDUCATION
