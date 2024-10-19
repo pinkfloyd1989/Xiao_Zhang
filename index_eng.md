@@ -44,8 +44,14 @@ Xiao Zhang is a tenure-track Associate professor at Gaoling School of Artificial
 - 2008-2012，Shanxi University, B.Sc., Information and Computing Sciences.
 
 ### TEACHING
-- Advanced Reinforcement Learning (Fall Semester 2022)
-- Mining the Massive Data (Spring Semester 2022, 2023, with Dr. Yong Liu)
+- Reinforcement Learning (Undergraduate course, 2024)
+- Advanced Reinforcement Learning (Graduate course, Fall 2024)
+- Intelligent Information Retrieval (Graduate course, Fall 2024, co-teaching with Professor Xu Jun)
+- AI Ethics and Safety (Undergraduate course, Spring 2024)
+- Introduction to Artificial Intelligence (Undergraduate course, Spring 2024)
+- Advanced Reinforcement Learning (Graduate course, Fall 2023)
+- Advanced Reinforcement Learning (Graduate course, Fall 2022)
+- Massive Data Mining (Graduate course, Fall 2021, co-teaching with Professor Liu Yong)
 
 ### PREPRINT PAPERS
 
