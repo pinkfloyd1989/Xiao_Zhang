@@ -31,8 +31,10 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 ### RESEARCH INTERESTS
 - *Key Words*: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
 
-- *Research Interests*: Dr. Xiao Zhang's group focuses on developing accountable, controllable and efficient machine learning theory and learning algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning and large models. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
+- *Research Summary*: Dr. Xiao Zhang's group focuses on developing accountable, controllable and efficient machine learning theory and learning algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning and large models. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
 
+- *Research Directions*:
+  
 - Online Learning & Reinforcement Learning: Theoretical analysis and algorithm design for online learning & reinforcement learning, as well as low-resource consumption learning algorithms for streaming data.
 
 - Causal Learning & Trustworthy Learning: Causal debiasing and counterfactual learning algorithms, research on controllable machine learning and fair machine learning.
