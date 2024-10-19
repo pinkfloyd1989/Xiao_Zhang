@@ -47,10 +47,19 @@ Xiao Zhang is a tenure-track Associate professor at Gaoling School of Artificial
 - Mining the Massive Data (Spring Semester 2022, 2023, with Dr. Yong Liu)
 
 ### PREPRINT PAPERS
-**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
-https://doi.org/10.48550/arXiv.2210.06719
 
-Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong, Ji-Rong Wen. Law article-enhanced legal case matching: A model-agnostic causal learning approach, https://arxiv.org/abs/2210.11012
+Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **A newly released survey on Controllable Learning is out now, stay tuned!**]
+
+Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
+
+Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model without user feedback at serving time in e-commerce, [https://arxiv.org/abs/2406.14004.pdf](https://arxiv.org/abs/2406.14004.pdf).
+
+Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Jun Xu. LLMs may dominate information access: Neural retrievers are biased towards LLM-generated texts, [https://arxiv.org/abs/2310.20501](https://arxiv.org/pdf/2310.20501.pdf).
+
+Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
+
+Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Sunhao Dai, Weijie Yu, Jun Xu. UOEP: User-oriented exploration policy for enhancing long-term user experiences in recommender systems, [https://arxiv.org/abs/2401.09034.pdf](https://arxiv.org/pdf/2401.09034.pdf).
+
 
 ### REPRESENTATIVE PAPERS
 **Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
