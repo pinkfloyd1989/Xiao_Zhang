@@ -3,7 +3,7 @@
   <tr>
     <td width="60%">
       <h1>Xiao Zhang</h1>
-      <p><b>Tenure-Track Assistant Professor, Gaoling School of Artificial Intelligence, Renmin University of China</b></p>
+      <p><b>Tenure-Track Associate Professor, Gaoling School of Artificial Intelligence, Renmin University of China</b></p>
       <p><b>e-mail：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="40%">
