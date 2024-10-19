@@ -29,17 +29,17 @@
 Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 40 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, AAAI, IJCAI, WWW, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
 
 ### RESEARCH INTERESTS
-- *Key Words*: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
+- **Key Words**: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
 
-- *Research Summary*: Dr. Xiao Zhang's group focuses on developing accountable, controllable and efficient machine learning theory and learning algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning and large models. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
+- **Research Summary**: Dr. Xiao Zhang's group focuses on developing accountable, controllable and efficient machine learning theory and learning algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning and large models. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
 
-- *Research Directions*:
+- **Research Directions**:
   
-  - **Online Learning & Reinforcement Learning**: Theoretical analysis and algorithm design for online learning & reinforcement learning, as well as low-resource consumption learning algorithms for streaming data.
+  - *Online Learning & Reinforcement Learning*: Theoretical analysis and algorithm design for online learning & reinforcement learning, as well as low-resource consumption learning algorithms for streaming data.
 
-  - Causal Learning & Trustworthy Learning: Causal debiasing and counterfactual learning algorithms, research on controllable machine learning and fair machine learning.
+  - *Causal Learning & Trustworthy Learning*: Causal debiasing and counterfactual learning algorithms, research on controllable machine learning and fair machine learning.
 
-  - Information Retrieval Applications: Applications in recommender systems, search, ranking, with a particular focus on large models empowering information retrieval.
+  - *Information Retrieval Applications*: Applications in recommender systems, search, ranking, with a particular focus on large models empowering information retrieval.
 
 ### WORK EXPERIENCE
 - 2024-present, Renmin University of China, Associate Professor.
