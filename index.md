@@ -37,7 +37,7 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
   
   - *Online Learning & Reinforcement Learning*: Theoretical analysis and algorithm design for online learning & reinforcement learning, as well as low-resource consumption learning algorithms for streaming data.
 
-  - *Causal Learning & Trustworthy Learning*: Causal debiasing and counterfactual learning algorithms, research on controllable machine learning and fair machine learning.
+  - *Causal Learning & Trustworthy Learning*: Focused on integrating causal inference methods into machine learning, with an emphasis on developing theories, methods, algorithms, and applications that ensure controllability and fairness in machine learning.
 
   - *Information Retrieval Applications*: Applications in recommender systems, search, ranking, with a particular focus on large models empowering information retrieval.
 
