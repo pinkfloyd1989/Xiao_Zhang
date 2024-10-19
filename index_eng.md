@@ -63,7 +63,7 @@ Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Ju
 
 Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Gang Wang, Jun Xu. Neural retrievers are biased towards LLM-generated content.  Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024). 
 
-Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, **Xiao Zhang**, Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding windows.  Proceedings of the 50th International Conference on Very Large Databases (VLDB 2024). (**最佳论文提名, Best Research Paper Nominations**) 
+Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, **Xiao Zhang**, Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding windows.  Proceedings of the 50th International Conference on Very Large Databases (VLDB 2024). (**Best Research Paper Nominations**) 
 
 ZhongXiang Sun, Kepu Zhang, Haoyu Wang, **Xiao Zhang**, Jun Xu. Effective in-context example selection through data compression.  ACL Findings (2024). 
 
@@ -73,7 +73,7 @@ Zhongxiang Sun, Zihua Si, **Xiao Zhang**, Xiaoxue Zang, Yang Song, Hongteng Xu a
 
 Teng Shi, Zihua Si, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song. UniSAR: Modeling user transition behaviors between search and recommendation. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). 
 
-Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), short paper. (**最佳短文提名, Best Short Paper Nominee**)
+Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), short paper. (**Best Short Paper Nominee**)
 
 Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu and Kun Gai. Generative retrieval with semantic tree-structured identifiers and contrastive learning. Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2024).
 
@@ -105,7 +105,7 @@ Sirui Chen, **Xiao Zhang**, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu. R
 
 Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023. (**最佳论文奖**)
 
-Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023.  (**Spotlight-最佳论文提名奖**)
+Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023.  (**Spotlight-Best Research Paper Nominations**)
 
 Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in a causal learning manner. ACM Transactions on Information Systems (TOIS), 2023.
 
