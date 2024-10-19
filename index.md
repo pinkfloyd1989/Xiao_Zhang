@@ -55,9 +55,13 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 ### PREPRINT PAPERS
 
-Dongxie Wen, Xiao Zhang, Zhewei Wei. Fast second-order online kernel learning through incremental matrix sketching and decomposition, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). 
+Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
 
 Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **A newly released survey on Controllable Learning is out now, stay tuned!**]
+
+Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework
+
+Dongxie Wen, **Xiao Zhang**, Zhewei Wei. Fast second-order online kernel learning through incremental matrix sketching and decomposition, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf). 
 
 Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
 
