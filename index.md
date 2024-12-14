@@ -26,7 +26,7 @@
 [Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
-Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 40 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, AAAI, IJCAI, WWW, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
+Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 40 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, AAAI, IJCAI, WWW, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
 
 ### RESEARCH INTERESTS
 - **Key Words**: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
@@ -78,6 +78,11 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 
 
 ### REPRESENTATIVE PAPERS
+**Xiao Zhang**, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong. AdaO2B: Adaptive online to batch conversion for
+out-of-distribution generalization. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
+
+Kepu Zhang, Zhongxiang Sun, **Xiao Zhang***, Xiaoxue Zang, Kai Zheng, Yang Song, Jun Xu. Trigger^3: Refining query correction via adaptive model selector. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). 
+
 **Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
 
 Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, **Xiao Zhang***, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model without user feedback at serving time in e-commerce. Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024), short paper. 
@@ -167,6 +172,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 
 ### Major Awards
+- December 2024: SIGIR-AP 2024 Best Paper Award
 - August 2024: VLDB 2024 Best Paper Nominee
 - July 2024: SIGIR 2024 Best Short Paper Nominee
 - November 2023: SIGIR-AP 2023 Best Paper Award
