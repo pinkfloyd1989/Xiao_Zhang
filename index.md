@@ -26,7 +26,7 @@
 [Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
-Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 40 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, AAAI, IJCAI, WWW, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
+Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 50 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, ICLR, AAAI, IJCAI, WWW, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
 
 ### RESEARCH INTERESTS
 - **Key Words**: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
@@ -52,6 +52,8 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 - 2008-2012，Shanxi University, B.Sc., Information and Computing Sciences.
 
 ### TEACHING
+- AI Ethics and Safety (Undergraduate course, Spring 2025)
+- Introduction to Artificial Intelligence (Undergraduate course, Spring 2025)
 - Reinforcement Learning (Undergraduate course, 2024)
 - Advanced Reinforcement Learning (Graduate course, Fall 2024)
 - Intelligent Information Retrieval (Graduate course, Fall 2024, co-teaching with Professor Xu Jun)
@@ -78,10 +80,19 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 
 
 ### REPRESENTATIVE PAPERS
+
+Haoyu Wang, Sunhao Dai, Haiyuan Zhao, Liang Pang, **Xiao Zhang**, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen. Perplexity trap: PLM-Based retrievers overrate low perplexity documents. Proceedings of the 13th International Conference on Learning Representations (ICLR 2025).
+
+ZhongXiang Sun, Xiaoxue Zang, Kai Zheng, Jun Xu, **Xiao Zhang**, Weijie Yu, Yang Song, Han Li. ReDeEP: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability. Proceedings of the 13th International Conference on Learning Representations (ICLR 2025).
+
+ZhongXiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu. LargePiG for Hallucination-free query generation: Your large language model is secretly a pointer generator.  Proceedings of the Web Conference 2025 (WWW 2025). 
+
 **Xiao Zhang**, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong. AdaO2B: Adaptive online to batch conversion for
 out-of-distribution generalization. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
 
 Kepu Zhang, Zhongxiang Sun, **Xiao Zhang***, Xiaoxue Zang, Kai Zheng, Yang Song, Jun Xu. Trigger^3: Refining query correction via adaptive model selector. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). 
+
+Chenglei Shen, Guofu Xie, **Xiao Zhang*** and Jun Xu.  On the decision-making abilities in role-playing using large language models. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, CMASDL Workshop).  
 
 **Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
 
