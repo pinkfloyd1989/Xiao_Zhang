@@ -81,7 +81,7 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 
 ### REPRESENTATIVE PAPERS
 
-Yi-Fan Zhang<span style="font-size: 0.8em;">†</span>, **Xiao Zhang**<span style="font-size: 0.8em;">†</span>, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
+Yi-Fan Zhang<sup>†</sup>, **Xiao Zhang**<sup>†</sup>, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
 
 Dongxie Wen, **Xiao Zhang***, Zhewei Wei, Chenping Hou, Shuai Li, Weinan Zhang. Fast second-order online kernel learning through incremental matrix sketching and decomposition.  Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
@@ -192,7 +192,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 *: Corresponding author.
 
-†: Equal contribution.
+<sup>†</sup>: Equal contribution.
 
 
 
