@@ -26,7 +26,7 @@
 [Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
-Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 50 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, ICLR, AAAI, IJCAI, WWW, ACL, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
+Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 60 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, ICLR, AAAI, IJCAI, WWW, ACL, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the program committees and senior program committees of several top conferences, including ICML, KDD, SIGIR, NeurIPS, AAAI, IJCAI, and WWW. 
 
 ### RESEARCH INTERESTS
 - **Key Words**: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
@@ -82,6 +82,8 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 ### REPRESENTATIVE PAPERS
 
 Guofu Xie, **Xiao Zhang***, Ting Yao, Yunsheng Shi. Bone Soups: A seek-and-soup model merging approach for controllable multi-objective generation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2015 main conference).
+
+Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhang**, Jun Xu. MAPS: Motivation-aware personalized search via LLM-driven consultation alignment. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2015 main conference).
 
 Zhiyuan Su, Sunhao Dai, **Xiao Zhang***. Revisiting clustering of neural bandits: Selective reinitialization for mitigating loss of plasticity. Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 
