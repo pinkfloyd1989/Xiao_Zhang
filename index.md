@@ -1,4 +1,4 @@
-<img width="546" height="56" alt="image" src="https://github.com/user-attachments/assets/0ed04076-42c1-4282-9218-c3f7fd863826" /><!--
+<!--
 <table border="0">
   <tr>
     <td width="60%">
@@ -207,6 +207,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 
 ### Major Awards
+- July 2025: The survey paper on controllable learning was selected for the Excellent Young Computer Scientists Forum of the journal Frontiers of Computer Science.
 - December 2024: SIGIR-AP 2024 Best Paper Award
 - August 2024: VLDB 2024 Best Paper Nominee
 - July 2024: SIGIR 2024 Best Short Paper Nominee
