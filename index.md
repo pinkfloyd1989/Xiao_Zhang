@@ -79,7 +79,7 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 
 ### REPRESENTATIVE PAPERS
 
-Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
+Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
