@@ -67,7 +67,7 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
 
-Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
+Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
 
 Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf).
 
