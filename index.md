@@ -63,21 +63,11 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 - Advanced Reinforcement Learning (Graduate course, Fall 2022)
 - Massive Data Mining (Graduate course, Fall 2021, co-teaching with Professor Liu Yong)
 
-### PREPRINT PAPERS
-
-Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
-
-Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf).
-
-Dongxie Wen, **Xiao Zhang**, Zhewei Wei. Fast second-order online kernel learning through incremental matrix sketching and decomposition, [https://arxiv.org/abs/2410.11188.pdf](https://arxiv.org/abs/2410.11188.pdf). 
-
-Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
-
-Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
-
 
 
 ### REPRESENTATIVE PAPERS
+
+Guohui Zhu, Xiao Zhang, Chunxia Chen. Assessing and enhancing the reliability of Chinese large language models in dental implantology. BMC Oral Health, 2025 25:1242.
 
 Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
 
