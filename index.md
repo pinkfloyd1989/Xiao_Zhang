@@ -67,7 +67,6 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 ### REPRESENTATIVE PAPERS
 
-Guohui Zhu, **Xiao Zhang**, Chunxia Chen. Assessing and enhancing the reliability of Chinese large language models in dental implantology. BMC Oral Health, 2025 25:1242.
 
 Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
 
