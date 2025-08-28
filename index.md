@@ -81,7 +81,7 @@ Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhan
 
 Changshuo Zhang, Ang Gao, **Xiao Zhang***, Yong Liu, Deyang Li, Fangchao Liu, Xinyu Zhang. Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
 
-Xiang Cheng, Chengyan Pan, Minjun Zhao, Deyang Li, Fangchao Liu, Xinyu Zhang, Xiao Zhang, Yong Liu. Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
+Xiang Cheng, Chengyan Pan, Minjun Zhao, Deyang Li, Fangchao Liu, Xinyu Zhang, **Xiao Zhang**, Yong Liu. Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
 
 Weicong Qin, Yi Xu, Weijie Yu, Teng Shi, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhang**, Jun Xu. Similarity = Value? Consultation Value-Assessment and Alignment for Personalized Search. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 main conference). 
 
