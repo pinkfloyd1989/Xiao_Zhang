@@ -46,10 +46,12 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 - 2022-2024, Renmin University of China, Assistant Professor.
 - 2020-2022, Renmin University of China, Postdoctoral Researcher. Supervisor: Prof. Ji-Rong Wen.
 
+<!-- 
 ### EDUCATION
 - 2015-2019，Tianjin University, Ph.D., Computer Application Technology, Advisor: Prof. Shizhong Liao.
 - 2012-2015, Northwestern Polytechnical University, M.S., Computing Mathematics, Advisor: Prof. Quan Lu.
 - 2008-2012，Shanxi University, B.Sc., Information and Computing Sciences.
+-->
 
 ### TEACHING
 - Reinforcement Learning (Undergraduate course, 2025)
