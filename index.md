@@ -263,3 +263,6 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 - May 2016: Best Paper Award at CCDM 2016
 - November 2011: First Prize in the National College Student Mathematical Contest in Modeling
 - November 2010: First Prize in the National College Student Mathematical Contest in Modeling
+
+
+**For graduate career outcomes and further information, please visit the lab homepag**: <a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>
