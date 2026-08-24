@@ -26,7 +26,7 @@
 [Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
-Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China, and a recipient of the Distinguished Young Scholar award. He has published over 60 papers in leading international conferences and journals, including ICML, NeurIPS, KDD, SIGIR, ICLR, AAAI, IJCAI, WWW, ACL, ICDE, and VLDB, as well as top-tier journals such as IEEE TKDE, ACM TOIS, Journal of Computer Science, and Science China: Information Sciences. His work has been recognized with several prestigious awards, including the SIGIR 2024 Best Short Paper Nomination, VLDB 2024 Best Paper Nomination, WWW 2023 Best Paper Nomination, SIGIR-AP 2023 and SIGIR-AP 2024 Best Paper Award, ICPR 2018 Best Paper Award, CCFAI 2017 Best Paper Nomination, and CCDM 2016 Best Paper Award. He has been invited to serve on the area chair and senior program committees of several top conferences, including ICLR, ACL, and IJCAI. 
+Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, Renmin University of China. He is a Distinguished Young Scholar of Renmin University of China, a researcher at the Institute of Artificial Intelligence Governance of Renmin University of China, an adjunct professor at Beijing Zhongguancun College, and an adjunct professor at the School of Smart Governance of Renmin University of China. He has published more than 70 papers in leading domestic and international academic journals and conferences in the field, covering CCF Class A venues such as TPAMI, ICML, NeurIPS, ICLR, KDD, SIGIR, ACL, TOIS, TKDE, and WWW. His honors include the First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, Best Paper Award at CCIR 2026, Best Short Paper Nominee at SIGIR 2024, Best Research Paper Nominee at VLDB 2024, Best Paper Award at SIGIR-AP 2024, Best Paper Nominee at WWW 2023, Best Paper Award at SIGIR-AP 2023, Best Paper Award at ICPR 2018, Best Paper Nominee at CCFAI 2017, and Best Paper Award at CCDM 2016. He has served as Area Chair for multiple international and domestic conferences, including ICLR, ACL, SIGIR, NeurIPS, and CCL. He has led over ten research projects. His research upholds the dual-driven philosophy of theoretical innovation and engineering implementation. Multiple outcomes of his work have delivered measurable improvements in real-world scenarios including e-commerce, information flow recommendation, and military interaction enhancement.
 
 ### RESEARCH INTERESTS
 - **Key Words**: Online&Reinforcement Learning; Causal&Turstworthy Machine Learning; Large Language Models; Information Retrieval.
@@ -35,11 +35,9 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 - **Research Directions**:
   
-  - *Online Learning & Reinforcement Learning*: Theoretical analysis and algorithm design for online learning & reinforcement learning, as well as low-resource consumption learning algorithms for streaming data.
-
-  - *Causal Learning & Trustworthy Learning*: Focused on integrating causal inference methods into machine learning, with an emphasis on developing theories, methods, algorithms, and applications that ensure controllability and fairness in machine learning.
-
-  - *Information Retrieval Applications*: Applications in recommender systems, search, ranking, with a particular focus on large models empowering information retrieval.
+  -  *Streaming Machine Learning*: Theoretical analysis and algorithm design of reinforcement learning and online learning; research on streaming continual learning algorithms for large language models.
+  - *Trustworthy and Controllable Artificial Intelligence*: Research on controllable machine learning, causal learning, and fair machine learning methods.
+  - *Large Language Models and Information Retrieval Applications*: Research on LLM-powered information acquisition agents, personalized recommendation, search ranking algorithms and their practical applications.
 
 ### WORK EXPERIENCE
 - 2024-present, Renmin University of China, Associate Professor.
@@ -71,16 +69,40 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 ### REPRESENTATIVE PAPERS
 
 
-Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5). [ **A newly released survey on Controllable Learning is just accepted, selected for the FCS Excellent Young Computer Scientists Forum, stay tuned!**]
+Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
+
+Yuan Wang, Zhiyu Li, Ang Gao, Changshuo Zhang, **Xiao Zhang***, Jun Xu, Quan Lin. Large-scale online learning for generative list recommendation in E-commerce: An environment policy optimization approach. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Chenglei Shen, Teng Shi, Weijie Yu, **Xiao Zhang***, Jun Xu. GenRecEdit: Adapting model editing for generative recommendation with cold-start items. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Changshuo Zhang, Teng Shi, **Xiao Zhang***, Yanping Zheng, Ruobing Xie, Qi Liu, Jun Xu. Disentangling from collaborative and semantic biews: Graph collaborative filtering for Q&A recommendation. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Changle Qu, Sunhao Dai, Ke Guo, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yannan Niu, Lantao Hu, Han Li, Jun Xu. KuaiLive: A real-time interactive dataset for live streaming recommendation. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026 Resource Paper).
+
+Chenglei Shen, Zhongxiang Sun, Teng Shi, **Xiao Zhang***, Jun Xu. StyliTruth: Unlocking stylized yet truthful LLM generation via disentangled steering. Proceedings of the 14th International Conference on Learning Representations (ICLR 2026).
+
+Ke Guo, Changle Qu, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu. Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.  Proceedings of the Web Conference 2026 (WWW 2026).
+
+Chenglei Shen, Yi Zhan, Weijie Yu, **Xiao Zhang***, Jun Xu. Enhancing bandit algorithms with LLMs for time-varying user preferences in streaming recommendations. ACM Transactions on Information Systems (TOIS), 2026.
+
+Yi Xu, Weiran Shen, Jun Xu, **Xiao Zhang***, Ji-Rong Wen. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+
+Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2026, 20(10): 2010619. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5).  [ **可控学习（Controllable Learning）综述, 入选 FCS Excellent Young Computer Scientists Forum, 欢迎大家关注！**]
+
+<details markdown="block">
+<summary>
+<b> 点击此处展开查看更多英文论文</b>
+</summary>
+
+<br>
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
-Chenglei Shen, Jiahao Zhao, **Xiao Zhang***, Weijie Yu, Ming He and Jianping Fan. Paragon: Parameter Generation for Controllable Multi-Task Recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
+Chenglei Shen, Jiahao Zhao, **Xiao Zhang***, Weijie Yu, Ming He and Jianping Fan. Paragon: Parameter generation for controllable multi-task recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
 Guofu Xie, **Xiao Zhang***, Ting Yao, Yunsheng Shi. Bone Soups: A seek-and-soup model merging approach for controllable multi-objective generation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main conference).
 
 Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhang**, Jun Xu. MAPS: Motivation-aware personalized search via LLM-driven consultation alignment. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main conference).
-
 
 Changshuo Zhang, Ang Gao, **Xiao Zhang***, Yong Liu, Deyang Li, Fangchao Liu, Xinyu Zhang. Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
 
@@ -202,6 +224,8 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 *: Corresponding author.
 
 <sup>†</sup>: Equal contribution.
+
+</details>
 
 
 
