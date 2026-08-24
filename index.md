@@ -55,13 +55,13 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 ### TEACHING
 
--Reinforcement Learning (Undergraduate course, 2026)
--Advanced Reinforcement Learning (Graduate course, Fall 2026)
--Intelligent Information Retrieval (Graduate course, Fall 2026, co-teaching with Professor Xu Jun)
--AI Ethics and Safety (Undergraduate course, Spring 2026)
--Introduction to Artificial Intelligence (Undergraduate course, Spring 2026)
--Introduction to Artificial Intelligence Governance (Undergraduate course, Spring 2026, one of the instructors)
--Cutting-Edge Technologies and Innovative Applications of Artificial Intelligence (Graduate course, Spring 2026, one of the instructors)
+- Reinforcement Learning (Undergraduate course, 2026)
+- Advanced Reinforcement Learning (Graduate course, Fall 2026)
+- Intelligent Information Retrieval (Graduate course, Fall 2026, co-teaching with Professor Xu Jun)
+- AI Ethics and Safety (Undergraduate course, Spring 2026)
+- Introduction to Artificial Intelligence (Undergraduate course, Spring 2026)
+- Introduction to Artificial Intelligence Governance (Undergraduate course, Spring 2026, one of the instructors)
+- Cutting-Edge Technologies and Innovative Applications of Artificial Intelligence (Graduate course, Spring 2026, one of the instructors)
 
 <details markdown="block">
 <summary>
