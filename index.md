@@ -29,7 +29,7 @@
 Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, RUC. He is a Distinguished Young Scholar of Renmin University of China, a researcher at the Institute of Artificial Intelligence Governance of Renmin University of China, an adjunct professor at Beijing Zhongguancun College, and an adjunct professor at the School of Smart Governance of Renmin University of China. He has published more than 70 papers in leading domestic and international academic journals and conferences in the field, covering CCF Class A venues such as TPAMI, ICML, NeurIPS, ICLR, KDD, SIGIR, ACL, TOIS, TKDE, and WWW. His honors include the First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, Best Paper Award at CCIR 2026, Best Short Paper Nominee at SIGIR 2024, Best Research Paper Nominee at VLDB 2024, Best Paper Award at SIGIR-AP 2024, Best Paper Nominee at WWW 2023, Best Paper Award at SIGIR-AP 2023, Best Paper Award at ICPR 2018, Best Paper Nominee at CCFAI 2017, and Best Paper Award at CCDM 2016. He has served as Area Chair for multiple international and domestic conferences, including ICLR, ACL, SIGIR, NeurIPS, and CCL. He has led over ten research projects. His research upholds the dual-driven philosophy of theoretical innovation and engineering implementation. Multiple outcomes of his work have delivered measurable improvements in real-world scenarios including e-commerce, information flow recommendation, and military interaction enhancement.
 
 ### RESEARCH INTERESTS
-- **Key Words**: Self-Evolving Learning Systems; Online & Reinforcement Learning; **Trustworthy** & Controllable Machine Learning; Large Language Models; Intelligent Information Agents; Information Retrieval. 
+- **Key Words**: Adapive Learning Systems; Online & Reinforcement Learning; Trustworthy & Controllable Machine Learning; Large Language Models; Intelligent Information Agents; Information Retrieval. 
 
 - **Research Summary**: Dr. Xiao Zhang’s group focuses on developing accountable, controllable, and efficient machine learning theories and algorithms for streaming applications scenarios, with a particular emphasis on the emerging paradigms of **trustworthy** machine learning and LLM-empowered learning. Their work spans the design of self-evolving learning mechanisms, trustworthy learning frameworks, and large language model driven intelligent agent architectures, committed to translating theoretical advances into robust, practical learning solutions for information retrieval applications including personalized recommendation, search ranking, and intelligent information acquisition.
 
@@ -37,9 +37,9 @@ Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaolin
 
 - **Research Directions**:
   
-  -  *Streaming Machine Learning*: Theoretical analysis and algorithm design of reinforcement learning and online learning; research on streaming continual learning algorithms for large language models.
+  -  *Adaptive Machine Learning*: Research on continual learning, adaptive evolution, and test‑time training algorithms for large models; theoretical analysis and algorithm design for reinforcement learning and online learning.
   - *Trustworthy and Controllable Artificial Intelligence*: Research on controllable machine learning, causal learning, and fair machine learning methods.
-  - *Large Language Models and Information Retrieval Applications*: Research on LLM-powered information acquisition agents, personalized recommendation, search ranking algorithms and their practical applications.
+  - *Large Language Models and Information Retrieval Applications*: Controllable generation and efficient inference of large models; information‑acquisition agents empowered by large models, and personalized recommendation algorithms.
 
 ### WORK EXPERIENCE
 - 2024-present, Renmin University of China, Associate Professor.
