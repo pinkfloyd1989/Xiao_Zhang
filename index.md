@@ -1,4 +1,29 @@
+<!--
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>Xiao Zhang</h1>
+      <p><b>Tenure-Track Associate Professor, Gaoling School of Artificial Intelligence, Renmin University of China</b></p>
+      <p><b>e-mail：zhangx89@ruc.edu.cn</b></p>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx.jpg" width="30%">      
+    </td>
+  </tr>
+</table>
+-->
 
+
+<div style="display: flex; align-items: center;">
+ <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
+  <div>
+    <h1 style="margin: 0;">Xiao Zhang</h1>
+    <p style="margin: 0; font-size: 1.2em;">Tenure-Track Associate Professor, Gaoling School of Artificial Intelligence, Renmin University of China</p>
+    <p style="margin: 0; font-size: 1.2em;">e-mail：zhangx89@ruc.edu.cn</p>
+  </div>
+</div>
+
+[Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
 Xiao Zhang is a tenure-track Associate Professor and Ph.D. advisor at the Gaoling School of Artificial Intelligence, RUC. He is a Distinguished Young Scholar of RUC, a researcher at the Institute of Artificial Intelligence Governance of RUC, an adjunct professor at Beijing Zhongguancun College, and an adjunct professor at the School of Smart Governance of RUC. He has published more than 70 papers in leading domestic and international academic journals and conferences in the field, covering CCF Class A venues such as TPAMI, ICML, NeurIPS, ICLR, KDD, SIGIR, ACL, TOIS, TKDE, and WWW. His honors include the First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, Best Paper Award at CCIR 2026, Best Short Paper Nominee at SIGIR 2024, Best Research Paper Nominee at VLDB 2024, Best Paper Award at SIGIR-AP 2024, Best Paper Nominee at WWW 2023, Best Paper Award at SIGIR-AP 2023, Best Paper Award at ICPR 2018, Best Paper Nominee at CCFAI 2017, and Best Paper Award at CCDM 2016. He has served as Area Chair for multiple international and domestic conferences, including ICLR, ACL, SIGIR, NeurIPS, and CCL. He has led over ten research projects. His research upholds the dual-driven philosophy of theoretical innovation and engineering implementation. Multiple outcomes of his work have delivered measurable improvements in real-world scenarios including e-commerce, information flow recommendation, and domain-specific interaction enhancement.
